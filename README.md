@@ -1,5 +1,3 @@
-# SQL-project-
-The journey of Data analysis 
 # EV-Machine-Analysis
 EV Charging Management using MySQL
 # EV Machine Analysis
